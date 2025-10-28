@@ -6,7 +6,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
          Animation = "ThaidzHUB Roblox hack"
          },
         Key = {
-        KeySystem = false,
+        KeySystem = true,
         Title = "bản premium nên có key nhé",
         Description = "",
         KeyLink = " get lam j ? key Thaidz10diem ",
