@@ -40,7 +40,8 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
      local Tab7o = MakeTab({Name = "kaitun blox fruit"})
      local Tab8o = MakeTab({Name = "script tổng hợp"})
      local Tab9o = MakeTab({Name = "tthe strongest battlegrounds"})
-     local tab10o - MakeTab({Name = " Raise animal"})
+     local tab10o - MakeTab({Name = " Raise animal"}) 
+
 ------- BUTTON
     
     AddButton(Tab6o, {
@@ -374,6 +375,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
   end
 
   })
+
 
 
 
