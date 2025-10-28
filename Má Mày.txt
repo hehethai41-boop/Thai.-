@@ -44,9 +44,9 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
 ------- BUTTON
     
     AddButton(Tab6o, {
-     Name = "thinh limeted",
+     Name = "THAIDZ HUB TAU LAM ",
     Callback = function()
-	  loadstring(game:HttpGet("https://raw.githubusercontent.com/thunhchk/thinhlimeted/refs/heads/main/tthinhlimeted.lua"))()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/hehethai41-boop/blox-fruit-.-/refs/heads/main/skid.txt"))()
   end
   })
   
@@ -374,4 +374,5 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
   end
 
   })
+
 
