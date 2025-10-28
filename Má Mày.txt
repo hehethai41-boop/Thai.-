@@ -31,7 +31,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
       
 ------ Tab
      local Tab0o = MakeTab({Name = "mm2"})
-     local Tab1o = MakeTab({Name = "gow a gader"})
+     local Tab1o = MakeTab({Name = "gow a garden"})
      local Tab2o = MakeTab({Name = "99 đêm"})
      local Tab3o = MakeTab({Name = "steal a brainot"})
      local Tab4o = MakeTab({Name = "plant vs brainot"})
@@ -373,4 +373,5 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
 	  loadstring(game:HttpGet("https://raw.githubusercontent.com/Cyborg883/TSB/refs/heads/main/CombatGui"))()
   end
   })
+
 
