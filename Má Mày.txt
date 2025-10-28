@@ -2,11 +2,11 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
 
        local Window = MakeWindow({
          Hub = {
-         Title = "thinh Roblox tổng hợp",
-         Animation = "thịnh Roblox hack"
+         Title = "THAIDZ Roblox tổng hợp",
+         Animation = "THAIDZ Roblox hack"
          },
         Key = {
-        KeySystem = true,
+        KeySystem = false,
         Title = "bản premium nên có key nhé",
         Description = "",
         KeyLink = "ib mình nhé tên nè @nguyenphuocthinh281989",
@@ -372,4 +372,5 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
     Callback = function()
 	  loadstring(game:HttpGet("https://raw.githubusercontent.com/Cyborg883/TSB/refs/heads/main/CombatGui"))()
   end
+
   })
